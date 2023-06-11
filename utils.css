@@ -1,0 +1,27 @@
+.m-w
+{
+    max-width:37vw;
+    
+}
+.text-center
+{
+    text-align: center;
+}
+.bg
+{
+    background-color: brown;
+}
+.mx-auto
+{
+    margin: auto;
+}
+.flex
+{
+display: flex;
+align-items: center;
+}
+.flex-col
+{
+    flex-direction: column;
+
+}
